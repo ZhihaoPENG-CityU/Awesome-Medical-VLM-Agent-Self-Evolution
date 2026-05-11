@@ -364,6 +364,18 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*ICLR'26*) **EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2510.13220)] [[💻 Code](https://github.com/yf-he/EvoTest)]
 
+- (*ICLR'26*) **Doctor-R1: Mastering Clinical Inquiry with Experiential Agentic Reinforcement Learning**
+  [[📝 Paper](https://arxiv.org/abs/2510.04284)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10006814)] [[💻 Code](https://github.com/thu-unicorn/Doctor-R1)]
+
+- (*ICLR'26*) **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2506.00555)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10011724)]
+
+- (*ICLR'26*) **Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**
+  [[📝 Paper](https://arxiv.org/abs/2506.13474)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10011252)] [[💻 Code](https://github.com/dharouni/LA-CDM)]
+
+- (*ICLR'26*) **KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2509.24816)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008150)] [[💻 Code](https://github.com/IcecreamArtist/KnowGuard)]
+
 - (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
   [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
 
@@ -540,8 +552,8 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*IEEE ICASSP'25*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
   [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
 
-- (*arXiv'25*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
-  [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
+- (*ICLR'26*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
+  [[📝 Paper](https://arxiv.org/abs/2503.18968)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008810)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
 
 - (*arXiv'25*) **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**
   [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
@@ -1086,8 +1098,8 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**
   [[📝 Paper](https://arxiv.org/abs/2509.20067)]
 
-- (*arXiv'25*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
-  [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
+- (*ICLR'26*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
+  [[📝 Paper](https://arxiv.org/abs/2503.18968)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008810)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
 
 - (*arXiv'25*) **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**
   [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
@@ -1154,8 +1166,8 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **A Co-evolving Agentic AI System for Medical Imaging Analysis (TissueLab)**
   [[📝 Paper](https://arxiv.org/abs/2509.20279)] [[🖥️ Platform](https://tissuelab.org)]
 
-- (*arXiv'25*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
-  [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
+- (*ICLR'26*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
+  [[📝 Paper](https://arxiv.org/abs/2503.18968)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008810)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
 
 - (*arXiv'25*) **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
@@ -1465,6 +1477,18 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*ICLR'26*) **EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2510.13220)] [[💻 Code](https://github.com/yf-he/EvoTest)]
+
+- (*ICLR'26*) **Doctor-R1: Mastering Clinical Inquiry with Experiential Agentic Reinforcement Learning**
+  [[📝 Paper](https://arxiv.org/abs/2510.04284)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10006814)] [[💻 Code](https://github.com/thu-unicorn/Doctor-R1)]
+
+- (*ICLR'26*) **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2506.00555)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10011724)]
+
+- (*ICLR'26*) **Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**
+  [[📝 Paper](https://arxiv.org/abs/2506.13474)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10011252)] [[💻 Code](https://github.com/dharouni/LA-CDM)]
+
+- (*ICLR'26*) **KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2509.24816)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008150)] [[💻 Code](https://github.com/IcecreamArtist/KnowGuard)]
 
 - (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
   [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
