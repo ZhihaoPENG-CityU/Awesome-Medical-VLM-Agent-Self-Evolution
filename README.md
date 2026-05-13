@@ -1,16 +1,43 @@
 <h1 align="center">
-  <strong>Awesome-Healthcare-SelfEvolvingAI</strong>
+  <strong>Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness</strong>
 </h1>
 
-<div align="center">
+<p align="center">
+  <sub>Curated papers &amp; open-source resources · Medical VLM · Agent · Self-evolution · Harness</sub>
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI?style=social)](https://github.com/ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#-contributing)
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness/stargazers"><img src="https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness?style=social" alt="GitHub stars"></a>
+  <a href="#-contributing"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions welcome"></a>
+</p>
 
-A curated list of papers and open-source resources on **self-evolving AI for agentic healthcare**, including **medical diagnosis**, **biomedical research**, **medical imaging**, **clinical simulation**, and **general self-evolving agent frameworks** relevant to healthcare.
+<p align="center">
+  <img src="https://img.shields.io/badge/Medical-VLM-0f766e?style=flat-square" alt="Medical VLM">&nbsp;
+  <img src="https://img.shields.io/badge/Agent-1d4ed8?style=flat-square" alt="Agent">&nbsp;
+  <img src="https://img.shields.io/badge/Self--Evolution-6d28d9?style=flat-square" alt="Self-evolution">&nbsp;
+  <img src="https://img.shields.io/badge/Harness%20engineering-b91c1c?style=flat-square" alt="Harness engineering">
+</p>
 
-</div>
+<p align="center">
+  A curated list of <strong>papers</strong> and <strong>open-source resources</strong> on
+  <strong>medical visual language models (VLMs)</strong>,
+  <strong>agents</strong> for clinical and biomedical workflows,
+  <strong>self-evolving</strong> learning and memory,
+  and <strong>harness engineering</strong> (evaluation, safety, orchestration, benchmarks)
+  for healthcare — spanning <strong>medical diagnosis</strong>, <strong>biomedical research</strong>, <strong>medical imaging</strong>, and <strong>clinical simulation</strong>.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Medical VLM</b><br/><sub>Vision–language in medicine</sub></td>
+    <td align="center" width="25%"><b>Agent</b><br/><sub>Tools, planning, multi-agent care</sub></td>
+    <td align="center" width="25%"><b>Self-evolution</b><br/><sub>Adaptation, memory, skills</sub></td>
+    <td align="center" width="25%"><b>Harness</b><br/><sub>Eval, rubrics, safety rails</sub></td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
@@ -1549,11 +1576,11 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Healthcare-SelfEvolvingAI&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left" />
  </picture>
 </a>
 
@@ -1563,7 +1590,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 Contributions are welcome!
 
-If you find any relevant papers, codebases, benchmarks, or project pages related to **self-evolving AI for agentic healthcare**, feel free to:
+If you find any relevant papers, codebases, benchmarks, or project pages related to **medical VLMs**, **clinical or biomedical agents**, **self-evolution**, or **harness engineering** in healthcare, feel free to:
 
 - open an **Issue**
 - submit a **Pull Request**
@@ -1586,7 +1613,7 @@ Please try to keep the formatting consistent with the existing entries.
 
 - **Borderline platform papers** — exclude when the contribution is primarily: **Web services or cloud home-care** without a stated multi-agent design; **generic IoT / sensor monitoring or wellness dashboards** without agent-centric methods; **generic distributed MAS architecture** without healthcare-centric evaluation; **preventive-medicine or network influenza** models that are disease models rather than clinical information agents; **ubiquitous fitness / physical-activity** sensor platforms without agent methods; **biology-style immune** simulations described as decentralized processes rather than clinical AI agents.
 
-These rules keep the repository aligned with **agents for care delivery and health IT**, not ABM-for-disease-modeling alone.
+These rules keep the repository aligned with **medical VLMs, agents, self-evolution, and harness engineering for care delivery and health IT**, not ABM-for-disease-modeling alone.
 
 ---
 
