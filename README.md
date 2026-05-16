@@ -1,9 +1,9 @@
 <h1 align="center">
   <strong>Awesome-Self-Evolving-AI-for-Agentic-Healthcare</strong>
 </h1>
-<!-- Advancements In Medical VLM Agentic Models: Self-Evolution, Harness Engineering, and Beyond -->
+<!-- Self-evolving AI for agentic healthcare: LLM agents, care workflows, multimodal clinical AI, and harness engineering -->
 <p align="center">
-  <sub>Curated papers &amp; open-source resources · Medical VLM · Agent · Self-evolution · Harness</sub>
+  <sub>Curated papers &amp; open-source resources · Agentic healthcare · Self-evolving AI · Multimodal clinical AI · Harness</sub>
 </p>
 
 <p align="center">
@@ -13,27 +13,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Medical-VLM-0f766e?style=flat-square" alt="Medical VLM">&nbsp;
-  <img src="https://img.shields.io/badge/Agent-1d4ed8?style=flat-square" alt="Agent">&nbsp;
-  <img src="https://img.shields.io/badge/Self--Evolution-6d28d9?style=flat-square" alt="Self-evolution">&nbsp;
-  <img src="https://img.shields.io/badge/Harness%20engineering-b91c1c?style=flat-square" alt="Harness engineering">
+  <img src="https://img.shields.io/badge/Agentic%20healthcare-1d4ed8?style=flat-square" alt="Agentic healthcare">&nbsp;
+  <img src="https://img.shields.io/badge/Self--evolving%20AI-6d28d9?style=flat-square" alt="Self-evolving AI">&nbsp;
+  <img src="https://img.shields.io/badge/Multimodal%20%26%20VLM-0f766e?style=flat-square" alt="Multimodal and VLM">&nbsp;
+  <img src="https://img.shields.io/badge/Harness%20%26%20safety-b91c1c?style=flat-square" alt="Harness and safety">
 </p>
 
 <p align="center">
   A curated list of <strong>papers</strong> and <strong>open-source resources</strong> on
-  <strong>medical visual language models (VLMs)</strong>,
-  <strong>agents</strong> for clinical and biomedical workflows,
-  <strong>self-evolving</strong> learning and memory,
-  and <strong>harness engineering</strong> (evaluation, safety, orchestration, benchmarks)
-  for healthcare — spanning <strong>medical diagnosis</strong>, <strong>biomedical research</strong>, <strong>medical imaging</strong>, and <strong>clinical simulation</strong>.
+  <strong>self-evolving AI</strong> for <strong>agentic healthcare</strong>:
+  LLM and multi-agent systems for <strong>clinical workflows, decision support, simulation, and biomedical pipelines</strong>,
+  together with <strong>adaptation, memory, skills, and test-time improvement</strong>,
+  <strong>multimodal and vision–language</strong> methods where they support care delivery,
+  and <strong>harness engineering</strong> (evaluation, safety, orchestration, benchmarks).
+  Coverage spans <strong>medical diagnosis</strong>, <strong>imaging and reporting</strong>, <strong>biomedical research</strong>, and <strong>virtual clinical environments</strong>.
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><b>Medical VLM</b><br/><sub>Vision–language in medicine</sub></td>
-    <td align="center" width="25%"><b>Agent</b><br/><sub>Tools, planning, multi-agent care</sub></td>
-    <td align="center" width="25%"><b>Self-evolution</b><br/><sub>Adaptation, memory, skills</sub></td>
-    <td align="center" width="25%"><b>Harness</b><br/><sub>Eval, rubrics, safety rails</sub></td>
+    <td align="center" width="25%"><b>Agentic care</b><br/><sub>Agents, tools, multi-agent workflows in health</sub></td>
+    <td align="center" width="25%"><b>Self-evolution</b><br/><sub>Memory, skills, adaptation, open-ended improvement</sub></td>
+    <td align="center" width="25%"><b>Multimodal &amp; VLM</b><br/><sub>Imaging, pathology, clinical vision–language</sub></td>
+    <td align="center" width="25%"><b>Harness</b><br/><sub>Eval, rubrics, safety, orchestration</sub></td>
   </tr>
 </table>
 
@@ -66,10 +67,10 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 | Tag | Meaning |
 |-----|---------|
-| **`[Core]`** | Primary focus: **medical / healthcare** settings with **agentic**, **self-evolving**, **multimodal / imaging**, or **harness / evaluation** contributions aligned with this list. |
+| **`[Core]`** | **Healthcare** context with **agentic** systems (LLM / multi-agent / tools) **and/or explicit self-evolution** (memory, skills, test-time adaptation, open-ended improvement), **or** care-centric **harness / evaluation**. **Multimodal and medical VLM** work counts as Core when it clearly supports **agentic or self-improving** clinical pipelines—not generic vision-only models. |
 | **`[Related·A]`** | **General** agent, self-evolution, or harness methods — transferable, not healthcare-specific. |
-| **`[Related·B]`** | **Medical agents** whose main modality is **text, EHR, coding, omics, simulation dialogue, or operations** rather than medical imaging / VLM. |
-| **`[Related·C]`** | **Medical vision / multimodal** models or benchmarks **without** an agentic architecture. |
+| **`[Related·B]`** | **Healthcare agents** whose main signal is **text, EHR, coding, omics, operations, or dialogue simulation** (not primarily imaging / VLM). |
+| **`[Related·C]`** | **Clinical vision / multimodal** models or benchmarks **without** a clear **agentic or self-evolving** angle. |
 | **`[Related·D]`** | **Surveys, perspectives, regulation, and commentary** (including most entries under Survey Papers). |
 | **`[Related·E]`** | **Historical** agent-based healthcare systems (**2002–2022**), pre–LLM / pre–VLM era. |
 
@@ -1632,7 +1633,7 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 Your contributions are always welcome! Please contact [Zhihao Peng](mailto:zhihaopeng@cuhk.edu.hk) or [Cheng Wang](mailto:chengwang@link.cuhk.edu.hk).
 
-If you find any relevant papers, codebases, benchmarks, or project pages related to **medical VLMs**, **clinical or biomedical agents**, **self-evolution**, or **harness engineering** in healthcare, feel free to:
+If you find any relevant papers, codebases, benchmarks, or project pages on **self-evolving AI for agentic healthcare**—including **LLM / multi-agent clinical systems**, **adaptation and memory**, **multimodal and medical VLM** when tied to care workflows, and **harnessing** (evaluation, safety, orchestration)—feel free to:
 
 - open an **Issue**
 - submit a **Pull Request**
@@ -1660,7 +1661,7 @@ Please try to keep the formatting consistent with the existing entries. Prefer a
 
 - **Borderline platform papers** — exclude when the contribution is primarily: **Web services or cloud home-care** without a stated multi-agent design; **generic IoT / sensor monitoring or wellness dashboards** without agent-centric methods; **generic distributed MAS architecture** without healthcare-centric evaluation; **preventive-medicine or network influenza** models that are disease models rather than clinical information agents; **ubiquitous fitness / physical-activity** sensor platforms without agent methods; **biology-style immune** simulations described as decentralized processes rather than clinical AI agents.
 
-These rules keep the repository aligned with **medical VLMs, agents, self-evolution, and harness engineering for care delivery and health IT**, not ABM-for-disease-modeling alone. -->
+These rules keep the repository aligned with **self-evolving, agent-centric healthcare AI and health IT**, not ABM-for-disease-modeling alone. -->
 
 ---
 
