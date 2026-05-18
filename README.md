@@ -91,6 +91,33 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Related·A] (*arXiv'26_05*) **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation**
   [[📝 Paper](https://arxiv.org/abs/2605.14968)]
 
+- [Related·A] (*arXiv'26_05*) **LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues**
+  [[📝 Paper](https://arxiv.org/abs/2605.12493)]
+
+- [Related·A] (*arXiv'26_05*) **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory**
+  [[📝 Paper](https://arxiv.org/abs/2605.12061)]
+
+- [Related·A] (*arXiv'26_05*) **On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment (FATE)**
+  [[📝 Paper](https://arxiv.org/abs/2605.11882)] [[💻 Code](https://github.com/YinBo0927/FATE)]
+
+- [Core] (*arXiv'26_05*) **MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2605.11814)]
+
+- [Related·A] (*arXiv'26_05*) **Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values**
+  [[📝 Paper](https://arxiv.org/abs/2605.10365)]
+
+- [Core] (*arXiv'26_05*) **AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**
+  [[📝 Paper](https://arxiv.org/abs/2605.10286)] [[💻 Code](https://github.com/nyuad-cai/AgentRX)]
+
+- [Related·A] (*arXiv'26_05*) **Continual Harness: Online Adaptation for Self-Improving Foundation Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.09998)]
+
+- [Related·A] (*arXiv'26_05*) **MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments**
+  [[📝 Paper](https://arxiv.org/abs/2605.09131)]
+
+- [Related·D] (*arXiv'26_05*) **Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2605.08445)]
+
 - [Related·A] (*arXiv'26_05*) **Holistic Evaluation and Failure Diagnosis of AI Agents**
   [[📝 Paper](https://arxiv.org/abs/2605.14865)]
 

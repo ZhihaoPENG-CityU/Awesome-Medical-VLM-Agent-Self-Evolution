@@ -27,6 +27,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **AEL: Agent Evolving Learning for Open-Ended Environments**
 [[📝 Paper](https://arxiv.org/abs/2604.21725)] [[💻 Code](https://github.com/WujiangXu/AEL)]
 
+- (2026) **Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values**
+[[📝 Paper](https://arxiv.org/abs/2605.10365)]
+
 - (2026) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
 [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
@@ -56,6 +59,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
 [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
+
+- (2026) **AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**
+[[📝 Paper](https://arxiv.org/abs/2605.10286)] [[💻 Code](https://github.com/nyuad-cai/AgentRX)]
 
 - (2026) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
 [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
@@ -134,6 +140,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
 [[📝 Paper](https://arxiv.org/abs/2604.09308)]
+
+- (2026) **Continual Harness: Online Adaptation for Self-Improving Foundation Agents**
+[[📝 Paper](https://arxiv.org/abs/2605.09998)]
 
 - (2026) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
 [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
@@ -261,6 +270,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**
 [[📝 Paper](https://arxiv.org/abs/2604.28178)]
 
+- (2026) **LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues**
+[[📝 Paper](https://arxiv.org/abs/2605.12493)]
+
 - (2026) **LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment**
 [[📝 Paper](https://arxiv.org/pdf/2604.06925)]
 
@@ -270,14 +282,23 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation**
 [[📝 Paper](https://arxiv.org/abs/2604.06269)] [[💻 Code](https://github.com/jiangliu91/MAT-Cell-A-Multi-Agent-Tree-Structured-Reasoning-Framework-for-Batch-Level-Single-Cell-Annotation)]
 
+- (2026) **MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments**
+[[📝 Paper](https://arxiv.org/abs/2605.09131)]
+
 - (2026) **MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research**
 [[📝 Paper](https://arxiv.org/abs/2604.18622)]
+
+- (2026) **Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare**
+[[📝 Paper](https://arxiv.org/abs/2605.08445)]
 
 - (2026) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
 [[📝 Paper](https://arxiv.org/abs/2603.07443)]
 
 - (2026) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
 [[📝 Paper](https://arxiv.org/abs/2603.27150)]
+
+- (2026) **MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**
+[[📝 Paper](https://arxiv.org/abs/2605.11814)]
 
 - (2026) **MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills**
 [[📝 Paper](https://arxiv.org/abs/2604.20441)]
@@ -314,6 +335,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **NeuroClaw Technical Report: Closed-Loop Agentic AI for Executable and Reproducible Neuroimaging Research**
 [[📝 Paper](https://arxiv.org/abs/2604.24696)] [[🌐 Project](https://cuhk-aim-group.github.io/NeuroClaw/index.html)] [[💻 Code](https://github.com/CUHK-AIM-Group/NeuroClaw)]
+
+- (2026) **On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment (FATE)**
+[[📝 Paper](https://arxiv.org/abs/2605.11882)] [[💻 Code](https://github.com/YinBo0927/FATE)]
 
 - (2026) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
 [[📝 Paper](https://arxiv.org/abs/2604.00085)]
@@ -356,6 +380,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
 [[📝 Paper](https://arxiv.org/abs/2602.01550)]
+
+- (2026) **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory**
+[[📝 Paper](https://arxiv.org/abs/2605.12061)]
 
 - (2026) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
 [[📝 Paper](https://arxiv.org/abs/2604.08988)]
